@@ -55,3 +55,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #rb-fsevent (temp work around)
 gem 'rb-fsevent', '0.9.8'
+
+#jquery
+gem 'jquery-rails'
+
+#jquery-ui
+gem 'jquery-ui-rails'
